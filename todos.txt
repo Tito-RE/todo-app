@@ -1,0 +1,9 @@
+add a new player
+add a new member
+ add a new member
+Buy a camera
+Make soup.
+Make piza
+Clean the code
+Buy the painting
+We just made a default arg
