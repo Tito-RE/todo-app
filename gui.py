@@ -23,5 +23,3 @@ while True:
           break
  
 window.close()
-
-#MIn 15:45
