@@ -1,10 +1,10 @@
 add a new player
-add a new member
- add a new member
+Clean the program add a new member
 Buy a camera
 Make soup.
-Make piza
-Clean the code
-Buy the painting
-We just made a default arg
+Make pizzaClean the code
+Buy plantsWe just made a default arg
 Master pyhton
+example
+My newest todo is added
+Add last todo
